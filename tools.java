@@ -2,3 +2,5 @@
 aws
 mobaxterm
 httpd
+tree
+sshd
